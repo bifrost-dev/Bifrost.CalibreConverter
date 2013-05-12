@@ -1,0 +1,5 @@
+*.suo
+*.user
+Settings.StyleCop
+BuildOutput\
+obj\
