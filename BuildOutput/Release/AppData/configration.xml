@@ -1,0 +1,6 @@
+<FormatConverterConfiguration>
+  <ConverterPath>c:\Program Files\Calibre2\</ConverterPath>
+  <OutputInSourceFolder>True</OutputInSourceFolder>
+  <OutputFormat>epub</OutputFormat>
+  <AutostartConversion>True</AutostartConversion>
+</FormatConverterConfiguration>

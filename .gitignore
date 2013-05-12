@@ -1,5 +1,6 @@
 *.suo
 *.user
+*.pdb
 Settings.StyleCop
-BuildOutput/
+BuildOutput/Debug/
 obj/
