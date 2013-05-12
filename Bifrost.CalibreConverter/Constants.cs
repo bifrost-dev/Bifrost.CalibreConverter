@@ -10,7 +10,7 @@
 
         public const string ProfilePortablePlaceholder = "profile_portable";
 
-        public const string AppDataFolder = "EBookFormatConverter";
+        public const string AppDataFolder = "Bifrost.CalibreConverter";
 
         public const string PortableDataFolder = "AppData";
 
