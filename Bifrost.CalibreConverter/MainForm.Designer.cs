@@ -212,7 +212,7 @@
             this.Controls.Add(this._groupBoxInputFiles);
             this.MaximizeBox = false;
             this.Name = "MainForm";
-            this.Text = "E-Book Format Converter";
+            this.Text = "Calibre Converter";
             this._groupBoxInputFiles.ResumeLayout(false);
             this._groupBoxOutputFolder.ResumeLayout(false);
             this._groupBoxOutputFolder.PerformLayout();
